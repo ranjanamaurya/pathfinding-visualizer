@@ -2,7 +2,7 @@
 
 ### React + TypeScript + Tailwind
 
-
+### https://vercel.com/mahakmaurya74-8356s-projects/pathfinding-visualizer
 
 ![app-demo](./src/assets/pathfinding-visualizer.gif)
 
